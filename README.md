@@ -47,7 +47,6 @@ To start the process, go to the deployed site [here](https://arcane-shore-27269.
 
 Then create an account or view the first few blogs and comments.  
 
-![An example blog:](assets/images/tech_blog.png)
 
 ## License
 
@@ -57,7 +56,7 @@ Source link for [MIT](https://opensource.org/licenses/MIT)
 
 ## Contributors
 
-Cody Gallagher
+
 
 ## Tests
 
@@ -65,6 +64,4 @@ There are currently no tests for this application.
 
 ## Contact
 
-[GitHub Profile](https://github.com/CodyG-2021)
-
-Email Me -- gallagher2021@gmail.com
+\
